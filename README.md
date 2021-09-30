@@ -32,5 +32,9 @@
 2. 개역성경에는 지난 100여년의 한글이 담겨 있습니다.(1911년 한글 번역 완료, 1961년 개역개정 완료) 
 4. 성경을 글쓰기에 활용하고 생활과 연결하면, 커다란 도서관을 통째로 활용하는 것과 같습니다.
 
-"모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니 이는 하나님의 사람으로 온전케 하며 모든 선한 일을 행하기에 온전케 하려 함이니라"
-디모데후서 3:16-17
+**"모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니 이는 하나님의 사람으로 온전케 하며 모든 선한 일을 행하기에 온전케 하려 함이니라"
+디모데후서 3:16-17**
+
+### 활용 예)
+1. Thank you Joschua! [Bible Study in Obsidian Kit (including the Bible in Markdown)](https://forum.obsidian.md/t/bible-study-in-obsidian-kit-including-the-bible-in-markdown/12503)
+2. Thank you Chris J Wilson! [Biblekasten](https://www.youtube.com/playlist?list=PLykefMsqC1neImu5aISN9ByTOKLaXgigk)
