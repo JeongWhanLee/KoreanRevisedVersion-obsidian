@@ -1,1 +1,2 @@
-# KoreanRevisedVersion-obsidian
+# 개역개정판 성경전서(KoreanRevisedVersion) Obsidian에서 활용
+성경을 마크다운(markdown) 파일로 만들었습니다. 노트필기와 메모관리를 옵시디언으로 하시는 분들은 다운로드 받아서 컴퓨터/타블렛/스마트폰에서 자유롭게 활용할 수 있습니다. 
