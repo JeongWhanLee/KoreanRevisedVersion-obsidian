@@ -41,6 +41,6 @@
 **"모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니 이는 하나님의 사람으로 온전케 하며 모든 선한 일을 행하기에 온전케 하려 함이니라"
 디모데후서 3:16-17**
 
-### 활용 예)
+### 활용 예) 이곳에 공유하는 성경 마크다운 옵시디언 파일은 Joschua의 파일 정리 방법을 따라서 다시 정리하였습니다. 
 1. Thank you Joschua! [Bible Study in Obsidian Kit (including the Bible in Markdown)](https://forum.obsidian.md/t/bible-study-in-obsidian-kit-including-the-bible-in-markdown/12503)
 2. Thank you Chris J Wilson! [Biblekasten](https://www.youtube.com/playlist?list=PLykefMsqC1neImu5aISN9ByTOKLaXgigk)
